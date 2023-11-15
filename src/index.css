@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Poller One', cursive;
+    background-image: url(./Images/sky.jpg);
+    color: goldenrod;
+    background-attachment: fixed;
+}
