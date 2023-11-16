@@ -1,3 +1,61 @@
+﻿<h1 align="center"> ReactJS Star Wars fan site</h1>
+
+## Description
+
+Star Wars fan site made using ReactJs on TypeScript.
+
+<p>
+<a href="https://vinokurov1721-star-wars-reactjs-site.netlify.app/"> link to site preview </a>
+</p>
+<p>
+
+
+### Final site layout
+
+<p>Final work preview</p>
+<a href="https://vinokurov1721-star-wars-reactjs-site.netlify.app/"> 
+<img src="./readme_assets/extra-small.png" width="70%"></a>
+
+
+
+The provided project is a web application named "53-ts-star-wars" that is based on React, version "0.1.0". Listed below is a summary of the technologies incorporated in this project:
+
+React (v18.2.0):
+
+React is a JavaScript library for developing user interfaces, which helps
+in creating reusable UI components.
+React DOM (v18.2.0):
+
+React DOM is a React package that provides DOM-related functions for rendering React components.
+React Router DOM (v6.6.1)
+
+facilitates navigation and routing in React applications.
+Bootstrap (v5.2.3)
+
+is a widely-used CSS framework for creating visually appealing and responsive web interfaces.
+TypeScript (v4.9.4)
+
+is a JavaScript superset that offers static typing, which assists in identifying potential
+errors during the development process.
+Jest (v27.5.2) and Testing Library (v13.4.0, v13.5.0) are utilized for testing.
+
+Jest is a testing framework for
+JavaScript, while Testing Library offers utilities for testing React components.
+Web Vitals (v2.1.4)
+
+is a Google initiative that provides guidance on quality signals necessary for delivering a positive user experience on the web.
+ESLint Configuration
+
+is a reporting tool for detecting patterns in ECMAScript/JavaScript code.
+The configuration enhances the default settings for Create React App, including configurations specific to Jest.
+Browserslist Configuration
+
+is a file that enables the specification of supported browsers during both development and production phases.
+The npm Scripts are as follows:
+
+The project features npm scripts for fundamental development assignments like initiating the development server (start), compiling the application (build), conducting tests (test), and removing Create React App configuration (eject).
+The project utilizes React and related technologies to build a contemporary and sustainable web application. The use of TypeScript improves code quality, while the Jest and Testing Library testing setup ensures application reliability. Implementing Bootstrap achieves a consistent and responsive UI design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
